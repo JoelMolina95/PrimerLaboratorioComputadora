@@ -1,0 +1,14 @@
+C:\Users\Marvi\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\Computadora.exe.config
+C:\Users\Marvi\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\Computadora.exe
+C:\Users\Marvi\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\Computadora.pdb
+C:\Users\Marvi\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.csproj.AssemblyReference.cache
+C:\Users\Marvi\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.exe
+C:\Users\Marvi\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.pdb
+C:\Users\Joel Antonio Molina\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\Computadora.exe.config
+C:\Users\Joel Antonio Molina\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\Computadora.exe
+C:\Users\Joel Antonio Molina\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\Computadora.pdb
+C:\Users\Joel Antonio Molina\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.csproj.AssemblyReference.cache
+C:\Users\Joel Antonio Molina\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.csproj.CoreCompileInputs.cache
+C:\Users\Joel Antonio Molina\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.exe
+C:\Users\Joel Antonio Molina\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.pdb
